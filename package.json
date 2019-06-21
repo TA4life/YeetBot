@@ -1,0 +1,15 @@
+{
+  "name": "Yeetbot",
+  "version": "1.0.0",
+  "description": "makin a bot to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obaida Kandakji",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "weather-js": "^2.0.0"
+  }
+}
